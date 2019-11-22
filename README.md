@@ -1,5 +1,15 @@
 ## Backend Developer at Give
 
+##How to use:
+ 1. This project is built on python 3.7. It would be preferred to create a virtualenv of python 3.7.
+ 2. Install required libraries from requirements.txt using pip install.
+ pip install -r requirements.txt
+ 3. Run app.py.
+ 4. Go to http://127.0.0.1:5000/upload/ and upload valid csv document having required headers along with base currency.
+## Documents:
+    Resume attached with files.
+
+
 ### Objective
 Create a disbursement report from a list of donations in CSV.
 
